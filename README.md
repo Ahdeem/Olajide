@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Olajide
+Web app for his photography company
+>>>>>>> a2897cbdc1b8aaea8d08eea3cb3ef957b115b7fe
